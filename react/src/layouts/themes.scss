@@ -1,0 +1,12 @@
+[data-theme="light"] {
+    --header-color: rgb(255, 219, 0);
+    --container-text-color: rgb(17,17,17);
+    --content-reciever-message: #fff;
+    --content-sent-message: rgb(17,17,17);
+}
+
+[data-theme="dark"] {
+    --header-color: rgb(118, 118, 118);
+    --content-reciever-message: rgb(223,223,223);
+    --content-sent-message: rgb(72,72,72);
+}

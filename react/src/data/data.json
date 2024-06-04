@@ -1,0 +1,13 @@
+[
+  {
+    "id": "1",
+    "author": "Chatbot",
+    "message": "Hi and welcome to the IKEA chatbot."
+  },
+  { "id": "2", "author": "Chatbot", "message": "How can I help you today?" },
+  {
+    "id": "3",
+    "author": "User",
+    "message": "I need help with placing an order."
+  }
+]
